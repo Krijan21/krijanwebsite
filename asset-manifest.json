@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.d775d779.chunk.css",
-    "main.js": "/static/js/main.322dce14.chunk.js",
-    "main.js.map": "/static/js/main.322dce14.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c4c42000.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c4c42000.js.map",
-    "static/css/2.16bf28d4.chunk.css": "/static/css/2.16bf28d4.chunk.css",
-    "static/js/2.8e377b7d.chunk.js": "/static/js/2.8e377b7d.chunk.js",
-    "static/js/2.8e377b7d.chunk.js.map": "/static/js/2.8e377b7d.chunk.js.map",
-    "static/js/3.66e28a88.chunk.js": "/static/js/3.66e28a88.chunk.js",
-    "static/js/3.66e28a88.chunk.js.map": "/static/js/3.66e28a88.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.16bf28d4.chunk.css.map": "/static/css/2.16bf28d4.chunk.css.map",
-    "static/css/main.d775d779.chunk.css.map": "/static/css/main.d775d779.chunk.css.map",
-    "static/js/2.8e377b7d.chunk.js.LICENSE.txt": "/static/js/2.8e377b7d.chunk.js.LICENSE.txt",
-    "static/media/all.min.css": "/static/media/fa-solid-900.eeccf4f6.woff"
+    "main.css": "/krijanwebsite/static/css/main.d775d779.chunk.css",
+    "main.js": "/krijanwebsite/static/js/main.322a1611.chunk.js",
+    "main.js.map": "/krijanwebsite/static/js/main.322a1611.chunk.js.map",
+    "runtime-main.js": "/krijanwebsite/static/js/runtime-main.07942c00.js",
+    "runtime-main.js.map": "/krijanwebsite/static/js/runtime-main.07942c00.js.map",
+    "static/css/2.2c191e86.chunk.css": "/krijanwebsite/static/css/2.2c191e86.chunk.css",
+    "static/js/2.8e377b7d.chunk.js": "/krijanwebsite/static/js/2.8e377b7d.chunk.js",
+    "static/js/2.8e377b7d.chunk.js.map": "/krijanwebsite/static/js/2.8e377b7d.chunk.js.map",
+    "static/js/3.66e28a88.chunk.js": "/krijanwebsite/static/js/3.66e28a88.chunk.js",
+    "static/js/3.66e28a88.chunk.js.map": "/krijanwebsite/static/js/3.66e28a88.chunk.js.map",
+    "index.html": "/krijanwebsite/index.html",
+    "static/css/2.2c191e86.chunk.css.map": "/krijanwebsite/static/css/2.2c191e86.chunk.css.map",
+    "static/css/main.d775d779.chunk.css.map": "/krijanwebsite/static/css/main.d775d779.chunk.css.map",
+    "static/js/2.8e377b7d.chunk.js.LICENSE.txt": "/krijanwebsite/static/js/2.8e377b7d.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/krijanwebsite/static/media/fa-solid-900.eeccf4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.c4c42000.js",
-    "static/css/2.16bf28d4.chunk.css",
+    "static/js/runtime-main.07942c00.js",
+    "static/css/2.2c191e86.chunk.css",
     "static/js/2.8e377b7d.chunk.js",
     "static/css/main.d775d779.chunk.css",
-    "static/js/main.322dce14.chunk.js"
+    "static/js/main.322a1611.chunk.js"
   ]
 }
