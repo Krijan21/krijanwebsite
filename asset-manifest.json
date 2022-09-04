@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/krijanwebsite/static/css/main.d775d779.chunk.css",
-    "main.js": "/krijanwebsite/static/js/main.c126356b.chunk.js",
-    "main.js.map": "/krijanwebsite/static/js/main.c126356b.chunk.js.map",
+    "main.js": "/krijanwebsite/static/js/main.6e97affb.chunk.js",
+    "main.js.map": "/krijanwebsite/static/js/main.6e97affb.chunk.js.map",
     "runtime-main.js": "/krijanwebsite/static/js/runtime-main.07942c00.js",
     "runtime-main.js.map": "/krijanwebsite/static/js/runtime-main.07942c00.js.map",
     "static/css/2.2c191e86.chunk.css": "/krijanwebsite/static/css/2.2c191e86.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.2c191e86.chunk.css",
     "static/js/2.8e377b7d.chunk.js",
     "static/css/main.d775d779.chunk.css",
-    "static/js/main.c126356b.chunk.js"
+    "static/js/main.6e97affb.chunk.js"
   ]
 }
